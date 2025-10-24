@@ -1,12 +1,12 @@
-<span>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" alt="Hi" />
-  <strong>Hi, I am Ray Elenwo.</strong>
-</span>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" alt="Hi" /> **Hi, I am Ray Elenwo.**
+
 
 
 ###
 
 <p align="left">I am a Smart Contract Developer, I am very passionate and skilled in the use of Solidity to develop properly structured and secure smart contracts. I am also skilled in the use of React js and Next js to build web applications.</p>
+
+
 
 ###
 
@@ -30,6 +30,8 @@
 
 ###
 
+
+
 <h3 align="left">Stats</h3>
 
 ###
@@ -38,6 +40,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=southrays&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=southrays&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+
 
 ###
 
